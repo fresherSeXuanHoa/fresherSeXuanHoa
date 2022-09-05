@@ -2,6 +2,7 @@
 
 - 🔭 : I'm an Intern in Software Engineering.
 - 🏢 : As of now, I am 21 years old and currently studying and working in Ho Chi Minh City.
+- 📓 : There are many repos with **fst** prefix here, it's simply my exercise, don't mind it!
 
 ## 🌠 **GitHub Stats :**
 
